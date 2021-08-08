@@ -12,12 +12,11 @@
 
 <h2>Top Languages</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suret1&amp;show_icons=true&amp;theme=gotham" style="max-width:100%;">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suret1&show_icons=true&theme=dark)
 
 <h2>My Github Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suret1&amp;show_icons=true&amp;theme=gotham" style="max-width:100%;">
-
+![Suret's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suret1&show_icons=true&theme=dark)
 
 <h3>Connect with me:</h3>
 <a href="https://www.facebook.com/suret.ramazanov" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ramazanov Suret" width="30px" ></a>
