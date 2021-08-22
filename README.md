@@ -12,7 +12,7 @@
 
 <h2>Top Languages</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suret1&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suret1&show_icons=true&theme=dark)
 
 <h2>My Github Stats</h2>
 
