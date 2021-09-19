@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on private project <g-emoji class="g-emoji" alias="rofl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f923.png">🤣</g-emoji>
 - 🌱 I’m currently learning Jetpack Compose
-- 🤔 I'm looking for help with finding a job <g-emoji class="g-emoji" alias="prayer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png">🙏</g-emoji> 
 - ⚡ Fun fact: I love to watch movies and programming 
 
 <h2>Top Languages</h2>
